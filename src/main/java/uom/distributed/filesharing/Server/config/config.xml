@@ -1,0 +1,17 @@
+<NodeConfiguration>
+    <Node>
+        <ip>localhost</ip>
+        <port>1234</port>
+        <name>node_1</name>
+    </Node>
+    <Node>
+        <ip>localhost</ip>
+        <port>1235</port>
+        <name>node_2</name>
+    </Node>
+    <Node>
+        <ip>localhost</ip>
+        <port>1236</port>
+        <name>node_3</name>
+    </Node>
+</NodeConfiguration>
